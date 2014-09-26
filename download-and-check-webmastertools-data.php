@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: GovLoop Check URLs
+ * Plugin Name: Webmaster Tools - Download and Check URLs
  * Plugin Author: Matt Gross - 10up
  */
 
